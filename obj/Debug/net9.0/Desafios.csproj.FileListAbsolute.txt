@@ -1,0 +1,15 @@
+E:\C#\Desafio1\Desafios\bin\Debug\net9.0\Desafios.exe
+E:\C#\Desafio1\Desafios\bin\Debug\net9.0\Desafios.deps.json
+E:\C#\Desafio1\Desafios\bin\Debug\net9.0\Desafios.runtimeconfig.json
+E:\C#\Desafio1\Desafios\bin\Debug\net9.0\Desafios.dll
+E:\C#\Desafio1\Desafios\bin\Debug\net9.0\Desafios.pdb
+E:\C#\Desafio1\Desafios\obj\Debug\net9.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Desafio1\Desafios\obj\Debug\net9.0\Desafios.AssemblyInfoInputs.cache
+E:\C#\Desafio1\Desafios\obj\Debug\net9.0\Desafios.AssemblyInfo.cs
+E:\C#\Desafio1\Desafios\obj\Debug\net9.0\Desafios.csproj.CoreCompileInputs.cache
+E:\C#\Desafio1\Desafios\obj\Debug\net9.0\Desafios.sourcelink.json
+E:\C#\Desafio1\Desafios\obj\Debug\net9.0\Desafios.dll
+E:\C#\Desafio1\Desafios\obj\Debug\net9.0\refint\Desafios.dll
+E:\C#\Desafio1\Desafios\obj\Debug\net9.0\Desafios.pdb
+E:\C#\Desafio1\Desafios\obj\Debug\net9.0\Desafios.genruntimeconfig.cache
+E:\C#\Desafio1\Desafios\obj\Debug\net9.0\ref\Desafios.dll
